@@ -1,2 +1,1 @@
-# Face_detection
-Face_detection 
+# Face Detection using OpenCV
